@@ -1,5 +1,5 @@
 ---
-canonical_url: 'https://hexadecimal-berry.github.io/contact'
+canonical_url: 'https://hexadecimal-berry.github.io/harley'
 ---
 
 
